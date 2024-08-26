@@ -1,0 +1,610 @@
+{
+    "k_2": [
+        {
+            "sample_index": 0,
+            "question_index": 0,
+            "score": 0.6448460221290588
+        },
+        {
+            "sample_index": 0,
+            "question_index": 2,
+            "score": 0.6756172180175781
+        },
+        {
+            "sample_index": 0,
+            "question_index": 3,
+            "score": 0.6578286290168762
+        },
+        {
+            "sample_index": 1,
+            "question_index": 0,
+            "score": 0.6648520827293396
+        },
+        {
+            "sample_index": 1,
+            "question_index": 1,
+            "score": 0.6941391825675964
+        },
+        {
+            "sample_index": 1,
+            "question_index": 2,
+            "score": 0.6969748139381409
+        },
+        {
+            "sample_index": 1,
+            "question_index": 3,
+            "score": 0.7082448601722717
+        },
+        {
+            "sample_index": 2,
+            "question_index": 0,
+            "score": 0.6741693615913391
+        },
+        {
+            "sample_index": 2,
+            "question_index": 1,
+            "score": 0.6801564693450928
+        },
+        {
+            "sample_index": 2,
+            "question_index": 2,
+            "score": 0.670466423034668
+        },
+        {
+            "sample_index": 2,
+            "question_index": 3,
+            "score": 0.6733205318450928
+        },
+        {
+            "sample_index": 3,
+            "question_index": 0,
+            "score": 0.6630734205245972
+        },
+        {
+            "sample_index": 3,
+            "question_index": 2,
+            "score": 0.6341652274131775
+        },
+        {
+            "sample_index": 3,
+            "question_index": 3,
+            "score": 0.6668111681938171
+        },
+        {
+            "sample_index": 4,
+            "question_index": 0,
+            "score": 0.6483460664749146
+        },
+        {
+            "sample_index": 4,
+            "question_index": 1,
+            "score": 0.6509227156639099
+        },
+        {
+            "sample_index": 4,
+            "question_index": 2,
+            "score": 0.6939053535461426
+        },
+        {
+            "sample_index": 5,
+            "question_index": 0,
+            "score": 0.6347993612289429
+        },
+        {
+            "sample_index": 5,
+            "question_index": 2,
+            "score": 0.628246545791626
+        },
+        {
+            "sample_index": 5,
+            "question_index": 3,
+            "score": 0.6382231712341309
+        },
+        {
+            "sample_index": 6,
+            "question_index": 0,
+            "score": 0.6355321407318115
+        },
+        {
+            "sample_index": 6,
+            "question_index": 1,
+            "score": 0.6500825881958008
+        },
+        {
+            "sample_index": 6,
+            "question_index": 2,
+            "score": 0.6457197666168213
+        },
+        {
+            "sample_index": 7,
+            "question_index": 0,
+            "score": 0.636195957660675
+        },
+        {
+            "sample_index": 7,
+            "question_index": 2,
+            "score": 0.634145975112915
+        },
+        {
+            "sample_index": 7,
+            "question_index": 3,
+            "score": 0.6391038298606873
+        },
+        {
+            "sample_index": 8,
+            "question_index": 0,
+            "score": 0.6217854619026184
+        },
+        {
+            "sample_index": 8,
+            "question_index": 1,
+            "score": 0.6789604425430298
+        },
+        {
+            "sample_index": 8,
+            "question_index": 2,
+            "score": 0.5915898084640503
+        },
+        {
+            "sample_index": 8,
+            "question_index": 3,
+            "score": 0.6487434506416321
+        }
+    ],
+    "k_3": [
+        {
+            "sample_index": 0,
+            "question_index": 0,
+            "score": 0.6837926506996155
+        },
+        {
+            "sample_index": 0,
+            "question_index": 2,
+            "score": 0.7063750624656677
+        },
+        {
+            "sample_index": 0,
+            "question_index": 3,
+            "score": 0.7134445309638977
+        },
+        {
+            "sample_index": 1,
+            "question_index": 0,
+            "score": 0.7143862843513489
+        },
+        {
+            "sample_index": 1,
+            "question_index": 1,
+            "score": 0.7491344809532166
+        },
+        {
+            "sample_index": 1,
+            "question_index": 2,
+            "score": 0.7431201934814453
+        },
+        {
+            "sample_index": 1,
+            "question_index": 3,
+            "score": 0.7420390248298645
+        },
+        {
+            "sample_index": 2,
+            "question_index": 0,
+            "score": 0.7304352521896362
+        },
+        {
+            "sample_index": 2,
+            "question_index": 1,
+            "score": 0.7291538715362549
+        },
+        {
+            "sample_index": 2,
+            "question_index": 2,
+            "score": 0.73640376329422
+        },
+        {
+            "sample_index": 2,
+            "question_index": 3,
+            "score": 0.711951494216919
+        },
+        {
+            "sample_index": 3,
+            "question_index": 0,
+            "score": 0.7087489366531372
+        },
+        {
+            "sample_index": 3,
+            "question_index": 2,
+            "score": 0.691176176071167
+        },
+        {
+            "sample_index": 3,
+            "question_index": 3,
+            "score": 0.7327341437339783
+        },
+        {
+            "sample_index": 4,
+            "question_index": 0,
+            "score": 0.7024065256118774
+        },
+        {
+            "sample_index": 4,
+            "question_index": 1,
+            "score": 0.7113528251647949
+        },
+        {
+            "sample_index": 4,
+            "question_index": 2,
+            "score": 0.7341921925544739
+        },
+        {
+            "sample_index": 5,
+            "question_index": 0,
+            "score": 0.6815521121025085
+        },
+        {
+            "sample_index": 5,
+            "question_index": 2,
+            "score": 0.7024939656257629
+        },
+        {
+            "sample_index": 5,
+            "question_index": 3,
+            "score": 0.6887430548667908
+        },
+        {
+            "sample_index": 6,
+            "question_index": 0,
+            "score": 0.6885345578193665
+        },
+        {
+            "sample_index": 6,
+            "question_index": 1,
+            "score": 0.7106520533561707
+        },
+        {
+            "sample_index": 6,
+            "question_index": 2,
+            "score": 0.7023123502731323
+        },
+        {
+            "sample_index": 7,
+            "question_index": 0,
+            "score": 0.7035582065582275
+        },
+        {
+            "sample_index": 7,
+            "question_index": 2,
+            "score": 0.684583306312561
+        },
+        {
+            "sample_index": 7,
+            "question_index": 3,
+            "score": 0.6972578167915344
+        },
+        {
+            "sample_index": 8,
+            "question_index": 0,
+            "score": 0.7190601825714111
+        },
+        {
+            "sample_index": 8,
+            "question_index": 1,
+            "score": 0.725622296333313
+        },
+        {
+            "sample_index": 8,
+            "question_index": 2,
+            "score": 0.6687459945678711
+        },
+        {
+            "sample_index": 8,
+            "question_index": 3,
+            "score": 0.7102144956588745
+        }
+    ],
+    "k_4": [
+        {
+            "sample_index": 0,
+            "question_index": 0,
+            "score": 0.7413635849952698
+        },
+        {
+            "sample_index": 0,
+            "question_index": 2,
+            "score": 0.7638307213783264
+        },
+        {
+            "sample_index": 0,
+            "question_index": 3,
+            "score": 0.7718188762664795
+        },
+        {
+            "sample_index": 1,
+            "question_index": 0,
+            "score": 0.7894784808158875
+        },
+        {
+            "sample_index": 1,
+            "question_index": 1,
+            "score": 0.7945500016212463
+        },
+        {
+            "sample_index": 1,
+            "question_index": 2,
+            "score": 0.7943402528762817
+        },
+        {
+            "sample_index": 1,
+            "question_index": 3,
+            "score": 0.7911731004714966
+        },
+        {
+            "sample_index": 2,
+            "question_index": 0,
+            "score": 0.7740007042884827
+        },
+        {
+            "sample_index": 2,
+            "question_index": 1,
+            "score": 0.800758421421051
+        },
+        {
+            "sample_index": 2,
+            "question_index": 2,
+            "score": 0.7984795570373535
+        },
+        {
+            "sample_index": 2,
+            "question_index": 3,
+            "score": 0.7766016721725464
+        },
+        {
+            "sample_index": 3,
+            "question_index": 0,
+            "score": 0.7570366263389587
+        },
+        {
+            "sample_index": 3,
+            "question_index": 2,
+            "score": 0.7696690559387207
+        },
+        {
+            "sample_index": 3,
+            "question_index": 3,
+            "score": 0.7716793417930603
+        },
+        {
+            "sample_index": 4,
+            "question_index": 0,
+            "score": 0.7529174089431763
+        },
+        {
+            "sample_index": 4,
+            "question_index": 1,
+            "score": 0.7665863633155823
+        },
+        {
+            "sample_index": 4,
+            "question_index": 2,
+            "score": 0.7802388072013855
+        },
+        {
+            "sample_index": 5,
+            "question_index": 0,
+            "score": 0.7692216038703918
+        },
+        {
+            "sample_index": 5,
+            "question_index": 2,
+            "score": 0.7679070830345154
+        },
+        {
+            "sample_index": 5,
+            "question_index": 3,
+            "score": 0.759152889251709
+        },
+        {
+            "sample_index": 6,
+            "question_index": 0,
+            "score": 0.7573763132095337
+        },
+        {
+            "sample_index": 6,
+            "question_index": 1,
+            "score": 0.765143632888794
+        },
+        {
+            "sample_index": 6,
+            "question_index": 2,
+            "score": 0.7683318257331848
+        },
+        {
+            "sample_index": 7,
+            "question_index": 0,
+            "score": 0.738389790058136
+        },
+        {
+            "sample_index": 7,
+            "question_index": 2,
+            "score": 0.7538838386535645
+        },
+        {
+            "sample_index": 7,
+            "question_index": 3,
+            "score": 0.7505612969398499
+        },
+        {
+            "sample_index": 8,
+            "question_index": 0,
+            "score": 0.7790032029151917
+        },
+        {
+            "sample_index": 8,
+            "question_index": 1,
+            "score": 0.7864086627960205
+        },
+        {
+            "sample_index": 8,
+            "question_index": 2,
+            "score": 0.7624737620353699
+        },
+        {
+            "sample_index": 8,
+            "question_index": 3,
+            "score": 0.766503632068634
+        }
+    ],
+    "k_5": [
+        {
+            "sample_index": 0,
+            "question_index": 0,
+            "score": 0.7973859310150146
+        },
+        {
+            "sample_index": 0,
+            "question_index": 2,
+            "score": 0.8067236542701721
+        },
+        {
+            "sample_index": 0,
+            "question_index": 3,
+            "score": 0.8091553449630737
+        },
+        {
+            "sample_index": 1,
+            "question_index": 0,
+            "score": 0.8294035196304321
+        },
+        {
+            "sample_index": 1,
+            "question_index": 1,
+            "score": 0.843309760093689
+        },
+        {
+            "sample_index": 1,
+            "question_index": 2,
+            "score": 0.832728922367096
+        },
+        {
+            "sample_index": 1,
+            "question_index": 3,
+            "score": 0.8098956942558289
+        },
+        {
+            "sample_index": 2,
+            "question_index": 0,
+            "score": 0.817997932434082
+        },
+        {
+            "sample_index": 2,
+            "question_index": 1,
+            "score": 0.8471022248268127
+        },
+        {
+            "sample_index": 2,
+            "question_index": 2,
+            "score": 0.8426437377929688
+        },
+        {
+            "sample_index": 2,
+            "question_index": 3,
+            "score": 0.8091126084327698
+        },
+        {
+            "sample_index": 3,
+            "question_index": 0,
+            "score": 0.8084364533424377
+        },
+        {
+            "sample_index": 3,
+            "question_index": 2,
+            "score": 0.8268410563468933
+        },
+        {
+            "sample_index": 3,
+            "question_index": 3,
+            "score": 0.8170219659805298
+        },
+        {
+            "sample_index": 4,
+            "question_index": 0,
+            "score": 0.8163516521453857
+        },
+        {
+            "sample_index": 4,
+            "question_index": 1,
+            "score": 0.8187985420227051
+        },
+        {
+            "sample_index": 4,
+            "question_index": 2,
+            "score": 0.8243684768676758
+        },
+        {
+            "sample_index": 5,
+            "question_index": 0,
+            "score": 0.8244968056678772
+        },
+        {
+            "sample_index": 5,
+            "question_index": 2,
+            "score": 0.805641233921051
+        },
+        {
+            "sample_index": 5,
+            "question_index": 3,
+            "score": 0.8099530935287476
+        },
+        {
+            "sample_index": 6,
+            "question_index": 0,
+            "score": 0.8118754029273987
+        },
+        {
+            "sample_index": 6,
+            "question_index": 1,
+            "score": 0.8045633435249329
+        },
+        {
+            "sample_index": 6,
+            "question_index": 2,
+            "score": 0.8244309425354004
+        },
+        {
+            "sample_index": 7,
+            "question_index": 0,
+            "score": 0.7987228035926819
+        },
+        {
+            "sample_index": 7,
+            "question_index": 2,
+            "score": 0.7952012419700623
+        },
+        {
+            "sample_index": 7,
+            "question_index": 3,
+            "score": 0.795422375202179
+        },
+        {
+            "sample_index": 8,
+            "question_index": 0,
+            "score": 0.8325357437133789
+        },
+        {
+            "sample_index": 8,
+            "question_index": 1,
+            "score": 0.8202769160270691
+        },
+        {
+            "sample_index": 8,
+            "question_index": 2,
+            "score": 0.8100155591964722
+        },
+        {
+            "sample_index": 8,
+            "question_index": 3,
+            "score": 0.8150673508644104
+        }
+    ]
+}
