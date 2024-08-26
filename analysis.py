@@ -13,10 +13,10 @@ def open_questions_full_analysis(control_valid_answers, patient_valid_answers, t
                                  sliding_window=True, content_words=False):
     # Determine the directory based on content_words and sliding_window flags
     base_dir = "image_description_answer_results"
-    # base_dir = "results"
+    # base_dir = "results_jsons"
 
     content_dir = "content_words" if content_words else "all_words"
-    method_dir = "sliding_window_deailment_metric_calculation" if sliding_window else "vanilla_deailment_metric_calculation "
+    method_dir = "sliding_window_coherence_metric_calculation" if sliding_window else "vanilla_coherence_metric_calculation "
     save_dir = os.path.join(base_dir, content_dir, method_dir)
 
     # Create the directories if they do not exist
